@@ -1,0 +1,5 @@
+{
+  "name": "Ruleta Bolichera Sernova",
+  "description": "Una ruleta interactiva para boliches con premios ponderados y mensajes generados por IA en jerga argentina.",
+  "requestFramePermissions": []
+}
