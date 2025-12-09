@@ -22,4 +22,4 @@ RUN npm run build
 EXPOSE 3000
 
 # Comando para iniciar
-CMD ["npm", "run", "preview", "--", "--host", "--port", "3000"]
+CMD ["npm", "run", "preview", "--", "--host", "--port", "3001"]
