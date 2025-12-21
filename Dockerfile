@@ -18,8 +18,8 @@ COPY . .
 # Construimos la aplicación
 RUN npm run build
 
-# Exponemos el puerto 3000
-EXPOSE 3000
+# Exponemos el puerto 3001
+EXPOSE 3001
 
 # Comando para iniciar
 CMD ["npm", "run", "preview", "--", "--host", "--port", "3001"]
